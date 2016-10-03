@@ -15,7 +15,7 @@ File:...............caesar.c
 #include <ctype.h> 
 #include <string.h>
 
-// argc contians argument count(length),argv conains name of program
+// argc contains argument count(length),argv conains name of program
 int main(int argc, string argv[])
 {
     // initialize variable for key
